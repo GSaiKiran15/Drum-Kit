@@ -1,11 +1,11 @@
 let sounds = {
     "A": "Sounds/crash.mp3",
     "S": "Sounds/kick-bass.mp3",
-    "D": "sounds/snare.mp3",
-    "F": "sounds/tom-1.mp3",
-    "G": "sounds/tom-2.mp3",
-    "H": "sounds/tom-3.mp3",
-    "J": "sounds/tom-4.mp3"
+    "D": "Sounds/snare.mp3",
+    "F": "Sounds/tom-1.mp3",
+    "G": "Sounds/tom-2.mp3",
+    "H": "Sounds/tom-3.mp3",
+    "J": "Sounds/tom-4.mp3"
 }
 
 // For Click
